@@ -20,10 +20,10 @@ logging.basicConfig(
 )
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7570126960:AAHCyzfAC9IC83mkaE117KndnQQMmaQ9h0k'
-OWNER_USERNAME = "Ansardildos"
-OWNER_CONTACT = "Contact @ansardildos to buy keys"
-ALLOWED_GROUP_IDS = [-1002650037232]
+TELEGRAM_BOT_TOKEN = '7890188377:AAFc2UD6vPunuZWQu3R4yzMHu4iYUoi6ya8'
+OWNER_USERNAME = "GAURAV_BHAI1"
+OWNER_CONTACT = "Contact @GAURAV_BHAI1 to buy keys"
+ALLOWED_GROUP_IDS = [-1002599919577]
 MAX_THREADS = 1000
 max_duration = 180
 bot_open = True 
@@ -32,8 +32,8 @@ SPECIAL_MAX_THREADS = 2000
 
 # VPS Configuration
 VPS_FILE = "vps.txt"
-BINARY_NAME = "vikku"
-BINARY_PATH = f"/home/master/vikku"
+BINARY_NAME = "fuck"
+BINARY_PATH = f"/home/master/fuck"
 VPS_LIST = []
 
 # Key Prices
@@ -86,7 +86,7 @@ START_IMAGES = [
             '🔥 *Welcome to the  DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *@ansardildos*\n\n'
+            '🔑 *@GAURAV_BHAI1*\n\n'
             '⚠️ *🤬* ⚠️'
         )
     },
@@ -96,7 +96,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -106,7 +106,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ *🤬* ⚠️'
         )
     },
@@ -116,7 +116,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ *🤬* ⚠️'
         )
     },
@@ -126,7 +126,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -136,7 +136,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -146,7 +146,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *@ansardildos*\n\n'
+            '🔑 *@GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -156,7 +156,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *@ansardildos*\n\n'
+            '🔑 *@GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -166,7 +166,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *@ansardildos*\n\n'
+            '🔑 *@GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -176,7 +176,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *@ansardildos*\n\n'
+            '🔑 *@GAURAV_BHAI1*\n\n'
             '⚠️ *⚠️LATEST NEWS⚠️ * ⚠️'
         )
     },
@@ -186,7 +186,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ *⚠️LATEST NEWS⚠️ * ⚠️'
        )
     },
@@ -196,7 +196,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
@@ -206,7 +206,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 * @ansardildos*\n\n'
+            '🔑 * @GAURAV_BHAI1*\n\n'
             '⚠️ ** ⚠️'
         )
     },
